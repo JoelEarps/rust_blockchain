@@ -1,0 +1,4 @@
+Custom Errors
+
+1. Errors for failing to generate timestamp?
+2. Error for failing to add block
