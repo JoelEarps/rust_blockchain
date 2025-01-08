@@ -2,6 +2,7 @@ mod block;
 mod blockchain;
 mod transactions;
 mod peer_to_peer_network;
+mod consensus_mechanisms;
 
 use blockchain::BlockChain;
 use peer_to_peer_network::PeerNode;
